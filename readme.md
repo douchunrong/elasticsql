@@ -8,10 +8,10 @@
 
 Overview
 -----------
-[![Build Status](https://travis-ci.org/cch123/elasticsql.svg?branch=master)](https://travis-ci.org/cch123/elasticsql)
-[![Go Documentation](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://godoc.org/github.com/cch123/elasticsql)
-[![Coverage Status](https://coveralls.io/repos/github/cch123/elasticsql/badge.svg?branch=master)](https://coveralls.io/github/cch123/elasticsql?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/cch123/elasticsql)](https://goreportcard.com/report/github.com/cch123/elasticsql)
+[![Build Status](https://travis-ci.org/douchunrong/elasticsql.svg?branch=master)](https://travis-ci.org/douchunrong/elasticsql)
+[![Go Documentation](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://godoc.org/github.com/douchunrong/elasticsql)
+[![Coverage Status](https://coveralls.io/repos/github/douchunrong/elasticsql/badge.svg?branch=master)](https://coveralls.io/github/douchunrong/elasticsql?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/douchunrong/elasticsql)](https://goreportcard.com/report/github.com/douchunrong/elasticsql)
 
 
 
@@ -44,7 +44,7 @@ Currently support:
 Usage
 -------------
 
-> go get -u github.com/cch123/elasticsql
+> go get -u github.com/douchunrong/elasticsql
 
 Demo :
 ```go
@@ -53,7 +53,7 @@ package main
 import (
     "fmt"
 
-    "github.com/cch123/elasticsql"
+    "github.com/douchunrong/elasticsql"
 )
 
 var sql = `
@@ -136,7 +136,7 @@ Setting a field to analyzed or not analyzed will get different results.
 
 Details
 ------------
-For more details of convertion, please refer to the [wiki](https://github.com/cch123/elasticsql/wiki)
+For more details of convertion, please refer to the [wiki](https://github.com/douchunrong/elasticsql/wiki)
 
 Other info
 ------------
